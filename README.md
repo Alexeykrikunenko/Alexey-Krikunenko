@@ -9,7 +9,7 @@ NDA соблюдается, документы не содержат конфи�
 https://hh.ru/resume/9061b9f9ff0eece2e90039ed1f336e74494955
 
 **Контакты:**  
-[Telegram] https://t.me/qors1313
+[Telegram](https://t.me/qors1313)
 
 ✉ KrikunenkoAlexey@yandex.ru (Но лучше в ТГ)
 
@@ -49,4 +49,4 @@ https://hh.ru/resume/9061b9f9ff0eece2e90039ed1f336e74494955
 **Ключевые навыки:**  
 BPMN · UML · Системный анализ · ERD · SQL · REST API · Agile · Postman · Интеграции · Jira · Confluence
  
-[Telegram](https://t.me/qors1313)
+
