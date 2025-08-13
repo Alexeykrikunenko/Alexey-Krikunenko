@@ -21,7 +21,8 @@ https://hh.ru/resume/9061b9f9ff0eece2e90039ed1f336e74494955
 - 📄 **Требования**  
   - [User Stories: Регистрация преподавателя в платформе](https://github.com/getanalyst/U-Verse/blob/main/docs/UserStories.md)
   - [User Stories: Оплата курса](https://github.com/getanalyst/U-Verse/blob/main/docs/UserStories.md)
-  - [Use Case: Публикация отзыва на курс](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/BasicUseCases.md)  
+  - [Use Case: Отображение информации для студента после входа в приложение базовая информация
+](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/BasicUseCases.md)  
   - [Use Case: Оплата курса через РайфПэй](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/IntegrationUseCases.md)  
   - [Задача на Frontend: Экран создания курса](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)
   - [Задача на Frontend: Экран со списком курсов](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)  
